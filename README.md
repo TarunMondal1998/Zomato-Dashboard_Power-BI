@@ -15,11 +15,11 @@ The main objective of the Dashboard is to present Sales, Customer performance an
 ## Insights
 
 ### Home Page
-
+![Zomato Dashboard_page-0001](https://github.com/user-attachments/assets/f57ba9ea-da67-476f-bdc9-48cbc1831b2a)
 
 ### Overview Page
 
-
+![Zomato Dashboard_page-0002](https://github.com/user-attachments/assets/d6718b25-7aa1-4070-a4b1-de33cf7016bf)
 
 1. Top-Selling Category: Veget dishes lead with 122 million in sales, significantly higher than non-vegetarian (106 million) and Other (24 million).
 2. City Sales Leader: Tirupati has the highest sales at 43 million, far ahead of other cities.
@@ -27,6 +27,7 @@ The main objective of the Dashboard is to present Sales, Customer performance an
 
 ### Customer performance
 
+![Zomato Dashboard_page-0003](https://github.com/user-attachments/assets/d9747c0c-5446-4ed4-9e61-da7981acdacd)
 
 4. Higher Male Customer Loss: More male users (19K) were lost than female users (14K), indicating potential retention issues among males.
 5. Majority Male Customer Gain: Of the 12K new users, most are male (6.5K), showing effective acquisition efforts for this group.
@@ -34,6 +35,8 @@ The main objective of the Dashboard is to present Sales, Customer performance an
 
 
 ### City Performance
+
+![Zomato Dashboard_page-0004](https://github.com/user-attachments/assets/0998f7f7-8fc2-4ea5-8dbe-cfbe9c5c8023)
 
 7. Top Sales City: Tirupati leads in sales with 43M, followed by Electronic City (28M).
 8. Highest Ratings: Bikaner has the most ratings (7K), showing high customer engagement there.
